@@ -19,3 +19,8 @@ balance.
    
 7. Display appropriate messages to the user based on their chosen options and the success or failure
 of their transactions.
+
+* This is how it runs👀
+
+![Untitled video - Made with Clipchamp](https://github.com/vedapriya17/ATMinterface_codsoft/assets/140573640/54e2eebe-8be9-431d-9b8c-656eebd97c9d)
+
